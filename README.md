@@ -11,7 +11,7 @@ Introduction:
 	On the other hand, in reality, the situation is completely opposite. Old age homes in India are the place where elderly people get every kind of facilities for a great living. They are treated with care and responsibility amidst experienced doctors and caregivers.
 	The fact is, old age homes in India, finely serve as the home with safety and security in a much better way for elderly people. 
 I have developed a .Net web application that is "Jivhala Old Age Home" website to live old people as like SUNITA SHARMA(+65 years old) ) to live a healthier and better life.
-Technology: .NET
+Technology: .NET (MVC based Web Application)
 
 
 SCREENSHOTS:  I have uplaoded Screenshots pdf in this repository.
